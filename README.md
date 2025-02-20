@@ -28,4 +28,4 @@ Espero que possa contribuir com aqueles que estão iniciando e que, assim como e
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/matheus-ferreira-de-oliveira-57380271/)
+- [Meu perfil no LinkedIn](https://www.linkedin.com/in/matheus-ferreira-de-oliveira-57380271/)
