@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- 🚀 Desenvolvedor e Analista de Sistemas
+- 🚀 Analista de testes
 - 🌱 Apaixonado por tecnologia e aprendizado contínuo
 - 💼 Atualmente trabalhando na NTTData, no projeto Liberalizados da NeoEnergia
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
